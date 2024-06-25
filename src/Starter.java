@@ -1,5 +1,6 @@
 public class Starter {
-
+    // Задача 1.6.6
+    
     public static void main(String[] args) {
         // точки для первой линии
         Point p1 = new Point(1, 7);
